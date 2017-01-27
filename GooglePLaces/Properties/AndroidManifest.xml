@@ -2,6 +2,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="GooglePLaces.GooglePLaces" android:versionCode="1" android:versionName="1.0">
   <uses-sdk android:minSdkVersion="16" />
   <application android:label="GooglePLaces">
-    <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyADyARRAdsZmMA5jx7Z5K8diAFKQu4BO_k" />
+    <meta-data android:name="com.google.android.geo.API_KEY" android:value="Key_Google_Here" />
   </application>
 </manifest>
